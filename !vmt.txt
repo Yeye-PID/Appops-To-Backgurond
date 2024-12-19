@@ -1,0 +1,42 @@
+      [ Appops To Backgurnd - Nonroot ]
+                   Author 
+     Telegram Yeye_nat | Github Yeye-PID
+                version : 1.0
+       ////////////////\\\\\\\\\\\\\\\\
+            install with > Brevent
+            
+            
+  Disclemoer shell :
+      
+- Shell ini saya bikin buat Mengurangi Beban CPU And RAM, dangan menggunakan Appops, Force stop And kill, dengan Memanfaatkan Tiga Mekanisme itu kita dapat mengurangi Beban CPU And RAM yang sangat siknipikan
+
+Dengan cara 
+- Membatasi Activitas Aplikasi 
+- Memaksa Aplikasi yang gak Guna Agar proses nya di stop
+- Mengkill semua Proses yang menumpuk di Backgurond
+
+Efek yang Didapat setelah memakai shell ini antara lain :
+- Mengurangi Overhead Suhu
+- Meminimalisir Crash Aplikasi 
+- Meningkatkan Performance Aplikasi yang bergantung pada CPU 
+- Mempercepat Loading Aplikasi / Tergantung Type RAM
+
+Note :
+- shell ini tidak meyebabkan Aplikasi mana pun Crash dikerenakan sudah saya susun seteliti mungkin agar tidak bedampak pada aplikasi manapun
+
+Recomend shell :
+- Dayli
+- Gaming
+
+install :
+Ekstrak dulu zip ' ATB.zip ' Ke internal
+Lalu Jalankan Perintah down Here :
+rm -rf /data/local/tmp/* && cp /sdcard/shell-Yeye/service /data/local/tmp && chmod +x /data/local/tmp/service && /data/local/tmp/service
+
+uninstall :
+rm -rf /data/local/tmp* && cp /sdcard/shell-Yeye/un-service /data/local/tmp && chmod +x /data/local/tmp/un-service && /data/local/tmp/un-service
+
+Disclemoer Efek :
+- Maaf jika script nya tidak begitu Berefek pada device kalian kerena tiap Device, Kernel And Versi Andorid Berbeda-beda Susah membuat script nya bekerja 100% apa lagi metode Nonroot
+
+⚠️ Especially for those who want to use my script in your Module, please contact me & add credit @Yeye_nat
