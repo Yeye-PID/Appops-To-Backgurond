@@ -8,6 +8,6 @@ Yang sudah memahami kerja script shell
 dan orang itu sudah paham tentang Besick Nonroot
 
 # Note efek ❓️
-Efek Bergantung pads pelmentasi Appops nya masing-masing, kerena setiap Versi Android And Kernel Berbeda-beda dill..
+Efek Bergantung Pada pelmentasi Appops nya masing-masing, kerena setiap Versi Android And Kernel Berbeda-beda dill..
 
 
