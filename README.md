@@ -10,4 +10,6 @@ dan orang itu sudah paham tentang Besick Nonroot
 # Note efek ❓️
 Efek Bergantung Pada pelmentasi Appops nya masing-masing, kerena setiap Versi Android And Kernel Berbeda-beda dill..
 
-
+## Recomened ❓️
+- Gaming
+- Multiasking
